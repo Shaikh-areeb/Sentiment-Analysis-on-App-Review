@@ -38,3 +38,8 @@ The dataset consists of app reviews, including:
 - Identified correlation between ratings, sentiment polarity, and reviews
 
 - Generated word cloud and visual insights for better app performance evaluation
+
+## Summary
+
+App Reviews Sentiment Analysis is a valuable tool for app developers and businesses to understand user feedback, prioritize feature updates, and maintain a positive user community. 
+It involves using data analysis techniques to determine whether the sentiments in these reviews are positive, negative, or neutral.
